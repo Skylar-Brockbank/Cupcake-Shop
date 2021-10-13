@@ -1,0 +1,24 @@
+
+.flashy{
+  Color: #5c1026;
+  font-style: italic;
+  font-weight: 700;
+  font-family: Arial,sans-serif;
+}
+
+body{
+  background-color: #f7dfe6;
+}
+
+img {
+  border: 10px double #5c1026;
+}
+.who {
+  text-decoration: underline;
+}
+.best{
+  font-weight: bold;
+}
+span{
+  padding-right: 10px
+}
